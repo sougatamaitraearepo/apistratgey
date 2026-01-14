@@ -1,5 +1,5 @@
 # API STRATEGY
-This readme file describes  why an organisation requires API Strategy . 
+This readme file describes  why an organisation requires an API Strategy. 
 
 # What an API STRATEGY contains - 
 A API Stratgey conatins 
@@ -8,5 +8,7 @@ A API Stratgey conatins
 - What will be the target operating model to execute this strategy?
 - What support does it require from organisational stakeholders to execute this?
  
-## Why an Organisation Needs an API Strategy: What Will Be the Driver?
+## Why an Organisation Needs an API Strategy?
+
+Main reason an organisation requires an API Strategy is to align with its business goals. The goal of an organisation is a specific, measurable outcome organisation wants to achieve. So, formulating an API
 
